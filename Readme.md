@@ -24,12 +24,16 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 ✅ Showcases my skills, projects, and contact information  
 ✅ Downloadable resume
 
+## 🎓 Certificate
+
+📜 View my certification: [Course Certificate](https://portal.nitsep.pk/course-certificate/d612342145)
+
 ## 📬 Contact Me
 
 I would love to connect and collaborate!
 
 📧 Email: muhammadzeeshan588685@gmail.com  
-🔗 LinkedIn:https://www.linkedin.com/in/muhammad-zeeshan-087584306/
+🔗 LinkedIn: [Muhammad Zeeshan](https://www.linkedin.com/in/muhammad-zeeshan-087584306/)  
 🐙 GitHub: [mzeeshan138](https://github.com/mzeeshan138)
 
 ---
