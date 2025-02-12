@@ -86,6 +86,9 @@ a:hover {
 .overlay-mf {
   background-color: #0078ff;
 }
+.overlay-footer-bg {
+  background-color: white;
+}
 
 .overlay-mf {
   position: absolute;
@@ -215,10 +218,15 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
-  color: #fff;
+  /* background-color: #0078ff; */
+  color: #ffae00;
   box-shadow: 0 0 0 3px #cde1f8;
-  transition: all 500ms ease;
+ 
+  /* update */
+  background: transparent;
+    transform: scale(0.95);
+    /* border: 1px solid rgb(180, 178, 178); */
+   
 }
 
 /*------/ Ul resect /------*/
