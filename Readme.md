@@ -29,7 +29,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 I would love to connect and collaborate!
 
 📧 Email: muhammadzeeshan588685@gmail.com  
-🔗 LinkedIn:
+🔗 LinkedIn:https://www.linkedin.com/in/muhammad-zeeshan-087584306/
 🐙 GitHub: [mzeeshan138](https://github.com/mzeeshan138)
 
 ---
