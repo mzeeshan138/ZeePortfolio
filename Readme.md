@@ -12,7 +12,7 @@ This is my **personal frontend developer portfolio website**, showcasing my **sk
 
 🔹 **Perfect for:** Web developers, designers, and programmers looking for portfolio inspiration.
 
-### 🔍 Why This Portfolio? (SEO Keywords)
+### 🔍 Why This Portfolio? 
 
 ✅ **Frontend Developer Portfolio**  
 ✅ **Web Developer Portfolio**  
