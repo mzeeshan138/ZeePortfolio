@@ -43,28 +43,38 @@ This repository hosts my **full-stack developer portfolio** showcasing my **skil
 
 ### 🔍 Why This Portfolio?
 
-✅ **Full Stack Developer Portfolio**  
-✅ **Web Developer Portfolio**  
-✅ **Responsive Portfolio Website**  
-✅ **HTML, CSS, JavaScript Portfolio**  
-✅ **Bootstrap Personal Website**
+✅ **Full-Stack Developer Portfolio**  
+✅ **End-to-End Web Solutions**  
+✅ **Responsive & Mobile-First Design**  
+✅ **Modern Front-End & Back-End Stack**  
+✅ **Containerized & CI/CD-Ready**
+
+--
 
 ## 🛠️ Technologies Used
 
-🚀 **Built with the latest web technologies:**
+🚀 **Built with the latest full-stack technologies:**
 
-- **HTML5** – Semantic markup & SEO-friendly structure
-- **CSS3 & Bootstrap** – Modern styling & responsiveness
-- **JavaScript** – Dynamic & interactive elements
-- **GitHub Pages** – Free hosting for easy deployment
+- **HTML5 & CSS3** – Semantic markup & responsive styling
+- **Bootstrap** – Rapid UI development & consistency
+- **JavaScript (ES6+) & React** – Dynamic, component-based interfaces
+- **Node.js & Express.js** – Scalable server-side logic & RESTful APIs
+- **MongoDB & SQL** – NoSQL and relational database design
+- **Docker & Docker Compose** – Containerization for development & production
+- **GitHub Actions** – Automated testing & CI/CD pipelines
+- **Heroku & Netlify** – Cloud deployment & hosting
+
+--
 
 ## 📂 Features
 
 ✅ **Fully Responsive Design** – Optimized for desktop, tablet, and mobile 📱  
 ✅ **Smooth Animations & Transitions** – Engaging user experience ✨  
-✅ **Showcases My Skills & Projects** – Organized & professional layout 💼  
-✅ **Downloadable Resume** – Easy access to my CV 📄  
-✅ **SEO Optimized** – Helps rank better on Google 🚀
+✅ **End-to-End Architecture** – UI/UX, API, and database integration 💼  
+✅ **Secure by Design** – JWT authentication, input validation, error handling 🔒  
+✅ **Automated Workflows** – Unit tests, CI/CD pipelines, and containerized deployments 🚀
+
+--
 
 ## 📜 Certifications & Profiles
 
